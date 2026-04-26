@@ -20,10 +20,18 @@
             "text": "Livraison gratuite",
             "url": ""
           }
+        },
+        "message_EzgANk": {
+          "type": "message",
+          "settings": {
+            "text": "-50%",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_EzgANk"
       ],
       "settings": {
         "enable_sticky": false,
